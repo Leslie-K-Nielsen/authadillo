@@ -1,0 +1,10 @@
+.authadillo-logout-button {
+    margin-top: 20px;
+    margin-bottom: 40px;    
+}
+#authadillo_signup_form{
+    display: none;
+}
+.error-message{
+    color: #a30000;
+}
